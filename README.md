@@ -5,3 +5,4 @@ NodeJS live log watcher to view updated changes in a log file on a locally hoste
 - Install dependencies: `npm install`
 - Run on the project: `npm start`
 - Open the browser to see your server running on `localhost:3000`.
+- To log data, go to _sample.log_ and do `echo Test >> sample.log`
